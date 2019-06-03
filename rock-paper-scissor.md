@@ -11,7 +11,6 @@ Write a JS program that takes an **input** string, the input could be `scissor`,
 
 Then the program randomly selects one of these `scissor`, `paper` or `rock`
 
-Given the Above rules then program returns you lost, won or tie given the above
-rules.
+Given the Above rules then program should return  lost, won or tie.
 
 Good luck.
