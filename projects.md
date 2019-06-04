@@ -1,5 +1,7 @@
-## Projects:
+## Calculator:
 
-You will be asked to do a project with a partner.
+You are asked to do a Calculator project,
 
-You could use codepen to help you doing that,
+
+- Write as clean code you could.
+- Put your project on github pages.

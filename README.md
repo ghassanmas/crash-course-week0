@@ -14,17 +14,25 @@ The curriculum of the BootCamp is based on
 * 08:30 - 09:00 - Hello World and
   [pair programing](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
 
-* 09:00 - 10:30 - JavaScript Warming Up The Odin project
+* 09:00 - 10:30 - JavaScript Basics The Odin project
+  - [JS Variables](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/fundamentals/fundamentals-1.md)
+  - [JS Strings](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/fundamentals/fundamentals-2.md)
+  - [JS Functions](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/fundamentals/fundamentals-3.md)
 
 * 10:30 - 10:40 - Break (**Please back on time**).
 
-* 10:40 - 12:30 - [Rock, Paper and Scissor Challenge](./rock-paper-scissor.md)
+* 10:40 - 11:30 - [Rock, Paper and Scissor Challenge](./rock-paper-scissor.md)
+
+- 11:30 - 12:30 [Arrays in JS](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/fundamentals/fundamentals-4.md)
 
 - 12:30 - 13:30 - Lunch Break
 
-- 13:30 - 13:45 - Introduce CodePen
 
-- 13:45 - 3:45 - Build Personal Website
+- 13:30 - 14:30 [Array Exercises](https://github.com/TheOdinProject/javascript-exercises)
+
+- 14:30 - 16:30 [Dom Manipulation](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/DOM-manipulation.md)
+
+
 
 ### Day 2
 
@@ -54,8 +62,4 @@ The curriculum of the BootCamp is based on
 
 ### Day 5
 
-- 8:30 - 12:30 Finalizing Project
-
-- 12:30 - 13:30 Lunch
-
-- 13:30 - 14:30 Presentations
+- 8:30 - 11:30 Test
