@@ -28,7 +28,13 @@ The curriculum of the BootCamp is based on
 - 12:30 - 13:30 - Lunch Break
 
 
-- 13:30 - 14:15 [Array Exercises](https://github.com/TheOdinProject/javascript-exercises)
+- 13:30 - 14:15 Array Exercises
+  - [repeatString](https://github.com/TheOdinProject/javascript-exercises/tree/master/repeatString)
+  - [reverseString](https://github.com/TheOdinProject/javascript-exercises/tree/master/reverseString)
+  - [removeFromArray](https://github.com/TheOdinProject/javascript-exercises/tree/master/removeFromArray)
+  - [sumAll](https://github.com/TheOdinProject/javascript-exercises/tree/master/sumAll)
+  - [leapYears](https://github.com/TheOdinProject/javascript-exercises/tree/master/leapYears)
+
 
 - 14:15 - 14:45 [Clean Code](https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/javascript_basics/clean_code.md)
 

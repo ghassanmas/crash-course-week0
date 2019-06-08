@@ -8,4 +8,5 @@ topic
 1. Git command.
 1. Dom JavaScript.
 1. HTML forms
+1. Objects in JS
 1. CSS: Flex-Box and Grid
