@@ -28,15 +28,18 @@ The curriculum of the BootCamp is based on
 - 12:30 - 13:30 - Lunch Break
 
 
-- 13:30 - 14:30 [Array Exercises](https://github.com/TheOdinProject/javascript-exercises)
+- 13:30 - 14:15 [Array Exercises](https://github.com/TheOdinProject/javascript-exercises)
 
-- 14:30 - 16:30 [Dom Manipulation](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/DOM-manipulation.md)
+- 14:15 - 14:45 [Clean Code](https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/javascript_basics/clean_code.md)
+
+- 14:45 - 16:30 [Dom Manipulation](https://github.com/TheOdinProject/javascript_curriculum/blob/master/JS101/DOM-manipulation.md)
 
 
 
 ### Day 2
+* 8:30 - 9:00 - [Developer Tools](https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/javascript_basics/developer_tools_2.md)
 
-* 8:30 - 10:00 - Code along BMI APP
+* 9:00 - 10:00 - Code along BMI APP
 
 * 10:00 - 10:10 - Break
 
@@ -44,7 +47,7 @@ The curriculum of the BootCamp is based on
 
 * 12:30 - 13:30 - Lunch Break
 
-- 13:30 - 13:40 - [Projects](./projects.md)
+- 13:30 - 13:40 - [Calculator Project](./projects.md)
 
 - 13:40 - 13:50 - [Introduce Research](./research.md)
 
