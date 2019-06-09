@@ -10,6 +10,7 @@ Write a JS program that takes an **input** string, the input could be `scissor`,
 `paper` or `rock`
 
 Then the program randomly selects one of these `scissor`, `paper` or `rock`
+
 **hint: google 'how to randomly select an element in an array'**
 
 Given the Above rules then program should return  lost, won or tie.
