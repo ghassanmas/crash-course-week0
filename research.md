@@ -21,8 +21,8 @@ topic
     - array.map()
     - array.filter()
     - array.forEach()
-    
-  - what does it mean for a method to be mutable
+    - array.reduce()
+    - what does it mean for a method to be mutable
 1. Objects in JS
  - What is Object, how would you define it
  - Whats difference and similarity between JSON and JS Object
