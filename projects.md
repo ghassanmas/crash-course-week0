@@ -1,6 +1,6 @@
 ## Calculator:
 
-You are asked to do a Calculator project,
+You are asked to do a Calculator project.
 
 
 - Write as clean code as you could.
